@@ -92,7 +92,11 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_arn"></a> [arn](#output\_arn) | Certificate ARN |
+| <a name="output_domain_name"></a> [domain\_name](#output\_domain\_name) | Domain name for which the certificate is issued |
 | <a name="output_id"></a> [id](#output\_id) | Certificate ID |
+| <a name="output_not_after"></a> [not\_after](#output\_not\_after) | Expiration date and time of the certificate |
+| <a name="output_not_before"></a> [not\_before](#output\_not\_before) | Start of the validity period of the certificate |
+| <a name="output_status"></a> [status](#output\_status) | Status of the certificate |
 <!-- END_TF_DOCS -->
 
 ## License
